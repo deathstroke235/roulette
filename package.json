@@ -1,0 +1,25 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "module",
+    "url": "github/deathstroke235/roulette.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "deathstroke",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.32.0",
+    "chalk": "^5.0.0",
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0"
+  }
+}
